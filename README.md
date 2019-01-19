@@ -17,4 +17,4 @@ indicates the greater complex pattern of the trabeculae in the
 heart.
 ![Test Image 8](https://github.com/fitushar/Quantification-of-Trabeculae-Inside-the-Heart-from-MRI-Using-Fractal-Analysis/blob/master/Images/Slide1.PNG)
 ![Test Image 8](https://github.com/fitushar/Quantification-of-Trabeculae-Inside-the-Heart-from-MRI-Using-Fractal-Analysis/blob/master/Images/Slide6.PNG)
-![Test Image 8](https://github.com/fitushar/Quantification-of-Trabeculae-Inside-the-Heart-from-MRI-Using-Fractal-Analysis/blob/master/Images/Slide14.PNG)
+![Test Image 8](https://github.com/fitushar/Quantification-of-Trabeculae-Inside-the-Heart-from-MRI-Using-Fractal-Analysis/blob/master/Images/Slide20.PNG)
